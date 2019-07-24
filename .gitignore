@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -116,5 +116,5 @@ dmypy.json
 
 # 忽略某些文件（夹）
 .idea/
-
+venv/
 
